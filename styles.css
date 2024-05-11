@@ -10,6 +10,23 @@ body {
     color: #333;
     background-color: #f4f4f4;
     padding: 20px;
+    padding: 20px;
+    background-image: url('public/jeanne2.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+body::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.7); /* Adjust transparency here, 0.5 is 50% transparent */
+    z-index: -1;
 }
 
 header, footer {
@@ -23,7 +40,6 @@ main {
     max-width: 960px;
     margin: 20px auto;
     padding: 20px;
-    background: white;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 
@@ -32,7 +48,7 @@ h1 {
 }
 
 h2 {
-    color: #555;
+    color: #383333;
     margin-bottom: 10px;
 }
 
@@ -52,6 +68,7 @@ iframe {
     margin-right: 10px;
     color: #0066CC;
     text-decoration: none;
+    font-weight: 700;
 }
 
 footer p {
