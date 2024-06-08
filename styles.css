@@ -75,10 +75,7 @@ footer p {
 }
 
 @media (min-width: 600px) {
-    iframe {
-        width: 48%;
-        margin-right: 4%;
-    }
+    
 
     iframe:nth-child(2n) {
         margin-right: 0;
