@@ -2,7 +2,7 @@
 
 ## by Language:
 - English: [The Heroic Martyr for the Truth](TheHeroicMartyrfortheTruth.md)
-- French: La Héroïne martyre pour la Vérité
+- French: [La Héroïne martyre pour la Vérité](Fr-TheHeroicMartyrfortheTruth.md)
 - Romanian: Eroina Martiră pentru Adevăr
 
 ## Gratitudes
