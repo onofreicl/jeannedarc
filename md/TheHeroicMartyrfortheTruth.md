@@ -81,7 +81,7 @@ Joan returned to Domrémy. But pressed again by her voices, she returned to Vauc
 
 But this time she stayed in Vaucouleurs.
 
-vSoon the only noise in the country was about this young girl, who was going around saying loudly that she would save the kingdom, that she must be taken to the Dauphin, that God wanted it.
+Soon the only noise in the country was about this young girl, who was going around saying loudly that she would save the kingdom, that she must be taken to the Dauphin, that God wanted it.
 
 “I will go,” she said, “even if I wear out my legs up to my knees.”
 
