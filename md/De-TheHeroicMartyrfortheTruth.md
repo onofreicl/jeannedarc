@@ -9,7 +9,7 @@ title: Akt 1
 
 ## Vorwort
       
-Am 22. Oktober 1422 starb Karl VI. und vermachte mit dem Vertrag von Troyes sein Königreich durch die Hand seiner Tochter Heinrich V., dem König von England.
+Am 22. Oktober 1422 starb Karl VI. und vermachte mit dem Vertrag von Troyes sein Königreich durch die Hand seiner Tochter an Heinrich V., dem König von England.
 
 In dem Jahrhundert, seit der Krieg unser Land verwüstete, war unsere Unabhängigkeit noch nie so bedroht.
 
