@@ -2,8 +2,8 @@
 
 # Eroina Martiră pentru Adevăr
 
-- As [video](https://www.youtube.com/watch?v=vVMf3Y-GOXk&list=PLrZFPVQM38MeC-ecXR6xoUe730yGpoLlv)
-- As [slides](https://docs.google.com/presentation/d/1VCVcJ-jBY2l14-xzNCqH2_aV54vp0vJQbBLlc67frQE/edit?usp=sharing)
+- As [video](https://www.youtube.com/watch?v=6bbK19nNjLU&list=PLrZFPVQM38Mc0XPvHtuN-fwsZhukWGOSQ)
+- As [slides](https://docs.google.com/presentation/d/1MHEutwOhyIRNYuCnaj1irQ8aX9hmNiTSwMdrr6TqZho/edit?usp=sharing)
 
 ## Act 1
 
