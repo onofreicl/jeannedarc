@@ -4,6 +4,9 @@
 
 
 ## Foreword
+
+![](../public/Boutet/modi/laurel.png)
+![](../public/Boutet/cropped/France1429_o.png)
       
 On October 22, 1422, Charles VI died, bequeathing, by the Treaty of Troyes, his kingdom with the hand of his daughter to Henry V, King of England.
 
@@ -31,6 +34,8 @@ Open, my dear children, this book with devotion in memory of this humble peasant
 
 ## Scene 1
 
+![](../public/Boutet/cropped/919976ilsdl.jpg)
+
 Joan was born on January 6, 1412, in Domrémy, a small village in Lorraine, dependent on the bailiwick of Chaumont, which came under the crown of France.
 
 Her father's name was Jacques d'Arc, and her mother was Isabelle Romée; they were honest people, simple laborers living from their work.
@@ -45,6 +50,8 @@ She loved God and prayed to Him often.
 
 ## Scene 2
 
+![](../public/Boutet/cropped/919977ilsdl.jpg)
+
 One summer day, when she was thirteen years old, as it was noon, she heard a voice in her father's garden; a great light broke out, and the archangel Saint Michael appeared to her. He told her to be good and to attend church. Then, telling her of the great pity that was in the kingdom of France, he announced to her that she would go to the aid of the Dauphin and that she would take him to Reims for coronation.
 
 "Sir, I am only a poor girl, I cannot ride or lead men-at-arms."
@@ -54,6 +61,8 @@ One summer day, when she was thirteen years old, as it was noon, she heard a voi
 And the upset child remained crying.
 
 ## Scene 3
+
+![](../public/Boutet/cropped/919978ilsdl.jpg)
 
 From that day on, Joan's piety became even more ardent; The child willingly separated herself from her companions to meditate, and heavenly voices were heard, speaking to her of her mission. They were, she said, the voices of her Saints. Often these voices were accompanied by visions; Saint Catherine and Saint Marguerite appeared to her.
 
@@ -71,6 +80,8 @@ Not daring to share her plan with her parents, Joan went to Burey to find her un
 
 ## Scene 4
 
+![](../public/Boutet/cropped/919979ilsdl.jpg)
+
 Baudricourt's reception was brutal. Joan told him "that a message came from God, that God would command the Dauphin to behave well because the Lord would give him help before the middle of Lent"; she added "that God wanted the Dauphin to become King; that he would do so in spite of his enemies, and that she herself would lead him to the coronation".
 
 "This girl is crazy, said Baudricourt, let’s take her back to her father to give her a good pair of slaps."
@@ -78,6 +89,8 @@ Baudricourt's reception was brutal. Joan told him "that a message came from God,
 Joan returned to Domrémy. But pressed again by her voices, she returned to Vaucouleurs and saw the Lord of Baudricourt again without obtaining a better welcome.
 
 ## Scene 5
+
+![](../public/Boutet/cropped/919980ilsdl.jpg)
 
 But this time she stayed in Vaucouleurs.
 
@@ -93,6 +106,8 @@ The people, of simple hearts, moved by her faith, believed in her. A squire, Jea
 
 ## Scene 6
 
+![](../public/Boutet/cropped/919981ilsdl.jpg)
+
 Chinon was far away and the journey perilous. The English and Burgundian partisans held the country, and the small troop was obliged to pass through certain bridges which the enemy occupied. You had to walk at night and hide during the day. Joan's companions, frightened, talked of returning to Vaucouleurs.
 
 "Fear nothing, she told them, God gives me my way, my brothers in paradise tell me what I have to do."
@@ -102,6 +117,8 @@ On the twelfth day, Joan arrived in Chinon with her companions. From the hamlet 
 The court of Charles VII was far from unanimous on the reception which should be given to her. La Trémouille, the favorite of the day, jealous of the ascendancy she had gained over his master, was determined to remove any influence capable of tearing Charles from his torpor. For two days, the council discussed whether the Dauphin would receive the inspired young woman.
 
 ## Scene 7
+
+![](../public/Boutet/cropped/919982ilsdl.jpg)
 
 At that moment, news arrived from Orléans so disturbing that Joan's supporters managed to ensure that this supreme chance of salvation was not ruled out. In the evening, by the light of fifty torches, in the great hall of the castle, where all the lords of the court crowded together, Joan was introduced. She had never seen the King. Charles VII, in order not to attract her attention, wore a less luxurious costume than those of his courtiers. At first glance, she distinguished him among all, and kneeling before him:
 
@@ -117,6 +134,8 @@ The Dauphin remained hesitant. This girl could be a witch. He sent her to Poitie
 
 ## Scene 8
 
+![](../public/Boutet/cropped/919983ilsdl.jpg)
+
 For three weeks she was tortured with insidious questions.
 
 “There is more in God's book than in yours,” she replied; “I know neither A nor B, but I come from the King of Heaven.”
@@ -129,6 +148,8 @@ There as in Vaucouleurs, the people declared themselves in her favor, they consi
 
 ## Scene 9
 
+![](../public/Boutet/cropped/919984ilsdl.jpg)
+
 The troops gathered in Blois. Joan arrived there followed by the Duke of Alençon, Marshal de Boussac, the Lord of Rais, La Hire, and Xaintrailles.
 
 On her white standard, she had the image of God and the names of Jesus and Maria embroidered. She advised her soldiers to sort out their consciences and confess before going out to fight. On Thursday, April 28, the small army set out. Joan led the way, her standard in the wind, to the song of “Veni, Creator”.
@@ -137,11 +158,15 @@ She wanted to march straight towards Orléans; the leaders thought it more prude
 
 ## Scene 10
 
+![](../public/Boutet/cropped/919985ilsdl.jpg)
+
 The army and the convoy arrived in front of Chécy, two leagues above Orléans.
 
 It was a matter of crossing the Loire; the boats were missing. Joan was transported to the other bank with part of her escort and the convoy of supplies. The rest of the troops had to return to Blois, to return to Orléans via the right bank of the Loire, via Beauce.
 
 ## Scene 11
+
+![](../public/Boutet/cropped/919986ilsdl.jpg)
 
 Joan had said to Dunois, who had come to meet her:
 
@@ -155,6 +180,8 @@ Joan spoke to them gently, promising to deliver them.
 
 ## Scene 12
 
+![](../public/Boutet/cropped/919987ilsdl.jpg)
+
 She asked to be taken to a church, wanting above all to give thanks to God.
 
 As an old man said to Joan, speaking of the English:
@@ -165,11 +192,15 @@ And, in fact, her confidence won over everyone around her. The Orleanians, so fe
 
 ## Scene 13
 
+![](../public/Boutet/cropped/919988ilsdl.jpg)
+
 However, we received no news from Blois. Dunois, worried, left to hasten the arrival of help. It was time. The Archbishop of Reims, Regnault de Chartres, Chancellor of the King, reconsidering the decisions taken, was going to send the troops back to their garrisons. Dunois obtained to take them to Orléans.
 
 On Wednesday, May 4, in the morning, Joan, surrounded by all the clergy of the city and followed by a large part of the population, left Orléans; through the English bastilles, she advanced in a grand procession to meet the small army of Dunois, which passed under the protection of the priests and a girl, without the English daring to attack it.
 
 ## Scene 14
+
+![](../public/Boutet/cropped/919989ilsdl.jpg)
 
 The same day, as Joan was resting, she woke up with a start.
 
@@ -179,13 +210,19 @@ Helped by the women of the house, she quickly armed herself and, jumping into th
 
 ## Scene 15
 
+![](../public/Boutet/cropped/919990ilsdl.jpg)
+
 In fact, without warning her, the bastide of Saint-Loup had been attacked. The attack had failed; the French retreated in disorder. Joan ran to rally them, and, bringing them back to the enemy, she recommenced the assault. In vain Talbot tried to help his people. Joan, standing at the foot of the ramparts, encouraged her people. For three hours the English resisted. Despite their desperate defense, the bastide was taken.
 
 ## Scene 16
 
+![](../public/Boutet/cropped/919991ilsdl.jpg)
+
 Joan returned victorious to Orléans. But as, in the joy of her success, she returned towards the city, crossing the battlefield, she felt her poor heart melt with pity at the sight of the wounded and the killed, and she began to cry, thinking that they had died without confession. And she said “that she had never seen the blood of France being spilled before. Her hair stood on end.”
 
 ## Scene 17
+
+![](../public/Boutet/cropped/919992ilsdl.jpg)
 
 However, it was a question of deciding how this attack which had so happily begun would be continued against the English.
 
@@ -199,6 +236,8 @@ Joan presented herself to the council; and as the chancellor of the Duke of Orl�
 
 ## Scene 18
 
+![](../public/Boutet/cropped/919993ilsdl.jpg)
+
 The next day, May 6, she captured the Augustinian bastille. On Saturday 7, early in the morning, the attack on the Tournelles bastille began. Joan, lowered into the ditch, was raising a ladder against the parapet, when a crossbow bolt pierced her right through between the neck and the shoulder. She tore the iron from the wound; she was then offered to charm the wound, she refused, saying "that she would rather die than do anything that was against the will of God". She confessed and prayed for a long time while her troops rested. Then giving the order to restart the assault, she threw herself into the heat of the fight, shouting to the attackers:
 
 “It’s all yours, come in!”
@@ -206,6 +245,8 @@ The next day, May 6, she captured the Augustinian bastille. On Saturday 7, early
 The bastille was taken, and all the defenders perished. There was no longer an Englishman left on the left bank of the Loire.
 
 ## Scene 19
+
+![](../public/Boutet/cropped/919994ilsdl.jpg)
 
 On Sunday, the English lined up in battle on the right bank of the Loire. Joan forbade attacking them. She had an altar erected, and mass was celebrated in the presence of the assembled army. The ceremony finished, she said to those around her:
 
@@ -217,6 +258,8 @@ Orléans, besieged for eight months, was delivered in four days.
 
 ## Scene 20
 
+![](../public/Boutet/cropped/919995ilsdl.jpg)
+
 The news of the deliverance of Orléans spread far and wide, attesting to all the divinity of Joan's mission.
 
 The holy girl, avoiding the recognition of the Orléanais, returned hastily to Chinon. She wanted, taking advantage of the enthusiasm raised around her, to leave immediately for Reims, taking the King with her in order to have him crowned. The King welcomed her with great honors, but refused to follow her. He accepted the devotion of this heroic girl, but he understood that her generous efforts would in no way disturb the cowardly inertia of her royal existence.
@@ -224,6 +267,8 @@ The holy girl, avoiding the recognition of the Orléanais, returned hastily to C
 It was decided that Joan would attack the places that the English still held on the banks of the Loire.
 
 ## Scene 21
+
+![](../public/Boutet/cropped/919996ilsdl.jpg)
 
 On June 11, the French occupied the suburbs of Jargeau. The next day, first thing in the morning, Joan gave the signal for combat. The Duke of Alençon wanted to delay the assault:
 
@@ -242,6 +287,8 @@ on the 16th, they laid siege to Beaugency;
 on the 17th, the city capitulated.
 
 ## Scene 22
+
+![](../public/Boutet/cropped/919997ilsdl.jpg)
  
 On June 18, Joan reached, near Patay, the English army led by Talbot and Fastolf.
 
@@ -257,6 +304,8 @@ Talbot was taken prisoner.
 
 ## Scene 23
 
+![](../public/Boutet/cropped/919998ilsdl.jpg)
+
 The English lost four thousand dead. Two hundred prisoners were taken from them. Only those who could pay a ransom were kept at mercy; the others were killed mercilessly.
 
 One of them was beaten so brutally in front of Joan that she jumped from her horse to help him. She lifted the poor man's head, brought a priest to him, consoled him, and helped him die.
@@ -267,6 +316,8 @@ Besides, she defied blows, and was often wounded, but never wanted to use her sw
 
 ## Scene 24
 
+![](../public/Boutet/cropped/919999ilsdl.jpg)
+
 The soldiers, English and Burgundians, who were garrisoning Troyes were able to leave the city with everything they owned. What they had were mainly prisoners, French people. When drawing up the capitulation, nothing had been stipulated in favor of these unfortunate people. But when the English left the city with their garroted prisoners, Joan threw herself across the road.
 
 “In God’s name, you will not take them!” she cried.
@@ -275,11 +326,17 @@ She demanded that the prisoners be handed over to her, and that their ransom be 
 
 ## Scene 25
 
+![](../public/Boutet/cropped/920000ilsdl.jpg)
+
 On July 16, the King entered the city of Reims at the head of his troops. The next day, the coronation ceremony took place in the cathedral, amid a great concourse of lords and people. Joan stood behind the King, her standard in her hand;
 
 "This standard had suffered, it was right that it should be in the spotlight."
 
 ## Scene 26
+
+![](../public/Boutet/cropped/920001ilsdl.jpg)
+
+![](../public/Boutet/cropped/920002ilsdl.jpg)
 
 When Charles VII had received the sacred anointing and the crown from the archbishop, Regnault of Chartres, Joan threw herself at his feet, kissing his knees and weeping hot tears.
 
@@ -291,6 +348,8 @@ When Charles VII had received the sacred anointing and the crown from the archbi
 
 ## Scene 27
 
+![](../public/Boutet/cropped/920003ilsdl.jpg)
+
 There was nothing like the eagerness of the people to touch Joan. It was about who would kiss her hands or her clothes, who would touch her. The little children were presented to her so that she could bless them, the rosaries, the holy images so that she could sanctify them by touching them with her hand. And the humble girl gracefully rejected these signs of adoration, gently joking with the poor people about their credulity in her power. But she asked on what day and at what time the children of the poor received communion, to go and commune with them.
 
 Her pity was for all those who suffered, but her tenderness was all for the small and humble. She felt like their sister, knowing that she was born to one of them. When later she was criticized for having tolerated this adoration of the crowd, Joan will simply respond: "
@@ -298,6 +357,8 @@ Her pity was for all those who suffered, but her tenderness was all for the smal
 Many people saw me willingly, and they kissed my hands without my permission, but the poor people came willingly to me because I did not displease them."
 
 ## Scene 28
+
+![](../public/Boutet/cropped/920004ilsdl.jpg)
 
 After the coronation of Reims, Joan wanted to move strongly towards Paris and retake the capital of the kingdom. The King's indecision gave the English time to make their defense preparations. The assault was repulsed; Joan was wounded by a crossbow bolt to the thigh.
 
@@ -307,6 +368,8 @@ For quite a long time Charles had been dragged along the roads; he was impatient
 
 ## Scene 29
 
+![](../public/Boutet/cropped/920005ilsdl.jpg)
+
 This retreat imposed by the cowardice of Charles VII and the jealousy of the courtiers was a terrible attack on Joan's prestige.
 
 From now on, in everyone's eyes, she ceased to be invincible.
@@ -315,6 +378,8 @@ The holy girl seems to have understood this, because, before leaving Paris, she 
 
 ## Scene 30
 
+![](../public/Boutet/cropped/920006ilsdl.jpg)
+
 But Joan could not resign herself to the inaction that they wanted to impose on her. Abandoned without help during the siege of La Charité, she understood that she now had no hope of help from Charles VII. At the end of March (1430), without taking leave of the King, she left to join the French partisans who were skirmishing against the English at Lagny.
 
 Now, during Easter week, as she had just heard mass and taken communion in the church Saint-Jacques de Compiègne, she withdrew against a pillar of the church and began to cry. The townspeople and children were surrounding her - she said to them:
@@ -322,6 +387,8 @@ Now, during Easter week, as she had just heard mass and taken communion in the c
 "My children and dear friends, I tell you that I have been sold and betrayed, and that soon I will be delivered to death. I beg you to pray for me, because I will never again have the power to do any service to the King and the Kingdom of France."
 
 ## Scene 31
+
+![](../public/Boutet/cropped/920007ilsdl.jpg)
 
 On May 23, as she was in Crespy, she learned that the town of Compiègne was closely sieged by the English and the Burgundians.
 
@@ -333,6 +400,8 @@ But Joan was carried away by the retreat of her people. Brought back under the r
 
 ## Scene 32
 
+![](../public/Boutet/cropped/920008ilsdl.jpg)
+
 A troop had attacked her.
 
 "Surrender yourself!" they shouted to her. “I have sworn and pledged my faith to someone other than you,” replied the brave girl, “and I will keep my oath!”
@@ -341,9 +410,13 @@ But in vain she resisted. Pulled by her long clothes, she was knocked from her h
 
 ## Scene 33
 
+![](../public/Boutet/cropped/920009ilsdl.jpg)
+
 Joan was taken to Margny amid the cries of joy of her enemies. The English and Burgundian chiefs and the Duke of Burgundy himself came running to see the witch. They found themselves face to face with an eighteen year old girl. Joan was the prisoner of John of Luxembourg, a gentleman without fortune, who only wanted to profit from her capture. The king of France made no offer to ransom the captive.
 
 ## Scene 34
+
+![](../public/Boutet/cropped/920010ilsdl.jpg)
 
 Joan was locked up in the Château de Beaurevoir. But knowing that the English wanted to buy her from the Lord of Luxembourg and also that the siege of Compiègne was advancing and that the city was going to succumb, one night she let herself slide from the top of the keep, using straps that broke. She fell at the foot of the wall and remained there as if dead.
 
@@ -353,6 +426,8 @@ At the end of November, she was handed over to the English for a sum of ten thou
 
 ## Scene 35
 
+![](../public/Boutet/cropped/920011ilsdl.jpg)
+
 Locked in the prison of Rouen Castle, she was guarded day and night by soldiers, from whom she had to endure insults and even brutality, her chains not allowing her to defend herself.
 
 Meanwhile, a tribunal, at the discretion of the English party and chaired by Cauchon, bishop of Beauvais, was investigating her trial. To the insidious questions of her judges, the poor and holy girl, without support and without advice, could only oppose the righteousness and simplicity of her heart, only the purity of her intentions.
@@ -360,6 +435,8 @@ Meanwhile, a tribunal, at the discretion of the English party and chaired by Cau
 “I come from God,” she said; “I have no use here; send me back to God from whom I came.”
 
 ## Scene 36
+
+![](../public/Boutet/cropped/920012ilsdl.jpg)
 
 However, there remained one help for her: that of her saints. They alone had not abandoned her. Joan always received advice from her celestial voices; Saint Marguerite and Saint Catherine appeared to her in the silence of the night, comforting her with good words. And as Bishop Cauchon asked Joan what they said to her:
 
@@ -374,6 +451,7 @@ And as the bishop pressed her with questions:
 "I can't say everything; I'm more afraid of saying something that displeases them than I am of not responding to you."
 
 ## Scene 37
+![](../public/Boutet/cropped/920013ilsdl.jpg)
 
 One day, Stafford and Warwick came to see her with Jean de Luxembourg. And as he, mockingly, told her that he was coming to buy her back if she promised not to arm herself against England again:
 
@@ -385,11 +463,16 @@ He would have killed her without the intervention of the assistants.
 
 ## Scene 38
 
+![](../public/Boutet/cropped/920014ilsdl.jpg)
+
 Joan, treated as a heretic, was deprived of the aid of religion. The sacraments were forbidden to her.
 
 Returning from the interrogation and passing with her escort in front of a chapel whose door was closed, she asked the monk who accompanied her if the body of Jesus Christ was there, requesting that she be allowed to kneel for a moment in front of the door to pray. Which she did. Now, Cauchon, having known this, threatened the monk with the most rigorous punishments if such a thing happened again.
 
 ## Scene 39
+
+![](../public/Boutet/cropped/920015ilsdl.jpg)
+![](../public/Boutet/cropped/920016ilsdl.jpg)
  
 However, the trial moved too slowly for the English.
 
@@ -402,6 +485,9 @@ The holy heroine was condemned, as a heretic, relapse, apostate, and idolater, t
 “Bishop, I die because of you!” she said, addressing Cauchon.
 
 ## Scene 40
+
+![](../public/Boutet/cropped/920017ilsdl.jpg)
+![](../public/Boutet/cropped/920018ilsdl.jpg)
  
 On May 30, Joan confessed and received communion. Then she was taken to the place of execution. When she was at the foot of the scaffold, she knelt, invoking God, the Virgin, and the Saints; then, turning to the bishop, to the judges, to her enemies, she devoutly begged them to have masses said for her soul. She climbed on the stake, asked for a cross, and died in the flames while pronouncing the name of Jesus. Everyone was crying, the executioners themselves and the judges.
 
