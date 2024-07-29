@@ -1,4 +1,4 @@
-[back](README.html)
+[back](index.html)
 
 # The Heroic Martyr for the Truth
 
