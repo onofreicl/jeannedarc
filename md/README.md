@@ -3,7 +3,9 @@
 ## by Language:
 - English: [The Heroic Martyr for the Truth](TheHeroicMartyrfortheTruth.md)
 - French: [La Héroïne martyre pour la Vérité](Fr-TheHeroicMartyrfortheTruth.md)
+- German: [Die heldenhafte Zeugin der Wahrheit](De-TheHeroicMartyrfortheTruth.md)
 - Romanian: Eroina Martiră pentru Adevăr
+  
 
 ## Gratitudes
 
