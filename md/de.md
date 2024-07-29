@@ -616,8 +616,6 @@ Am 30. Mai beichtete Johanna und empfing die Kommunion. Dann wurde sie zum Hinri
 „Wir sind verloren, wir haben eine Heilige verbrannt!“, riefen die Engländer, als sie auseinandergingen.
 
 
----
-
 ## Schluss
 
 Herrgott, vergib Rouen. Sie wissen nicht, was sie tun ...
@@ -632,3 +630,7 @@ O JOHANNA, OHNE GRAB UND OHNE PORTRÄT, DIE DU WUSSTEST, DASS DAS GRAB DER HELDE
 
 
 NUR NACHWEISBARE FREIWILLIGE KÖNNEN JOHANNA UND ANDERE HELDEN AUS IHREN GRÄBERN WIEDER ERWECKEN - Anon
+
+--- 
+
+[back](index.html)

@@ -338,6 +338,7 @@ on the 17th, the city capitulated.
 ## Scene 22
 
 ![](../public/Boutet/cropped/919997ilsdl.jpg)
+![](../public/Boutet/cropped/919998ilsdl.jpg)
  
 On June 18, Joan reached, near Patay, the English army led by Talbot and Fastolf.
 
@@ -355,7 +356,7 @@ Talbot was taken prisoner.
 
 ## Scene 23
 
-![](../public/Boutet/cropped/919998ilsdl.jpg)
+![](../public/Boutet/cropped/919999ilsdl.jpg)
 
 The English lost four thousand dead. Two hundred prisoners were taken from them. Only those who could pay a ransom were kept at mercy; the others were killed mercilessly.
 
@@ -369,7 +370,7 @@ Besides, she defied blows, and was often wounded, but never wanted to use her sw
 
 ## Scene 24
 
-![](../public/Boutet/cropped/919999ilsdl.jpg)
+![](../public/Boutet/cropped/920000ilsdl.jpg)
 
 The soldiers, English and Burgundians, who were garrisoning Troyes were able to leave the city with everything they owned. What they had were mainly prisoners, French people. When drawing up the capitulation, nothing had been stipulated in favor of these unfortunate people. But when the English left the city with their garroted prisoners, Joan threw herself across the road.
 
@@ -381,7 +382,7 @@ She demanded that the prisoners be handed over to her, and that their ransom be 
 
 ## Scene 25
 
-![](../public/Boutet/cropped/920000ilsdl.jpg)
+![](../public/Boutet/cropped/920001ilsdl.jpg)
 
 On July 16, the King entered the city of Reims at the head of his troops. The next day, the coronation ceremony took place in the cathedral, amid a great concourse of lords and people. Joan stood behind the King, her standard in her hand;
 
@@ -390,8 +391,6 @@ On July 16, the King entered the city of Reims at the head of his troops. The ne
 ---
 
 ## Scene 26
-
-![](../public/Boutet/cropped/920001ilsdl.jpg)
 
 ![](../public/Boutet/cropped/920002ilsdl.jpg)
 
@@ -411,9 +410,9 @@ When Charles VII had received the sacred anointing and the crown from the archbi
 
 There was nothing like the eagerness of the people to touch Joan. It was about who would kiss her hands or her clothes, who would touch her. The little children were presented to her so that she could bless them, the rosaries, the holy images so that she could sanctify them by touching them with her hand. And the humble girl gracefully rejected these signs of adoration, gently joking with the poor people about their credulity in her power. But she asked on what day and at what time the children of the poor received communion, to go and commune with them.
 
-Her pity was for all those who suffered, but her tenderness was all for the small and humble. She felt like their sister, knowing that she was born to one of them. When later she was criticized for having tolerated this adoration of the crowd, Joan will simply respond: "
+Her pity was for all those who suffered, but her tenderness was all for the small and humble. She felt like their sister, knowing that she was born to one of them. When later she was criticized for having tolerated this adoration of the crowd, Joan will simply respond: 
 
-Many people saw me willingly, and they kissed my hands without my permission, but the poor people came willingly to me because I did not displease them."
+"Many people saw me willingly, and they kissed my hands without my permission, but the poor people came willingly to me because I did not displease them."
 
 ---
 
@@ -593,3 +592,5 @@ O JOAN, WITHOUT SEPULCHER AND WITHOUT PORTRAIT, YOU WHO KNEW THAT THE TOMB OF HE
 
 
 ONLY PROVABLE VOLUNTEERS CAN RAISE JOAN AND OTHER HEROES BACK FROM THEIR GRAVES - Anon
+
+[back](index.html)
