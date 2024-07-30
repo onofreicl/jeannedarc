@@ -349,11 +349,11 @@ Sie selbst kletterte die Leiter hinauf. Sie wurde von einem Stein am Kopf nieder
 
 Die Wälle wurden erklommen. Die Engländer wurden bis zur Stadtbrücke verfolgt, gefangen genommen und getötet. Suffolk wurde gefangen genommen.
 
-Am 15. übernahmen die Franzosen die Kontrolle über die Meung-Brücke.
+Am 15. übernahmen die Franzosen die Kontrolle über die Meung-Brücke;
 
-Am 16. belagerten sie Beaugency.
+am 16. belagerten sie Beaugency;
 
-Am 17. kapitulierte die Stadt.
+am 17. kapitulierte die Stadt;
 
 
 ---
