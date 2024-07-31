@@ -1,9 +1,9 @@
----
-title: Ο Ηρωικός Μάρτυρας για την Αλήθεια
-
----
+[back](index.html)
 
 # Η Ηρωική Μάρτυς για την Αλήθεια
+
+- As [video](https://www.youtube.com/watch?v=vVMf3Y-GOXk&list=PLrZFPVQM38MeC-ecXR6xoUe730yGpoLlv)
+- As [slides](https://docs.google.com/presentation/d/1VCVcJ-jBY2l14-xzNCqH2_aV54vp0vJQbBLlc67frQE/edit?usp=sharing)
 
 # Πράξη 1
 
