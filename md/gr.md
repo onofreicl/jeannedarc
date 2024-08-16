@@ -2,8 +2,8 @@
 
 # Η Ηρωική Μάρτυς για την Αλήθεια
 
-- As [video](https://www.youtube.com/watch?v=_bRCQHUI4ME&list=PLrZFPVQM38MeUPzfWQnmSq3ShkER7pdSA&index=1)
-- As [slides](https://docs.google.com/presentation/d/1VCVcJ-jBY2l14-xzNCqH2_aV54vp0vJQbBLlc67frQE/edit?usp=sharing)
+- Ως [βίντεο](https://www.youtube.com/watch?v=_bRCQHUI4ME&list=PLrZFPVQM38MeUPzfWQnmSq3ShkER7pdSA&index=1)
+- Ως [διαφάνειες](https://docs.google.com/presentation/d/1VCVcJ-jBY2l14-xzNCqH2_aV54vp0vJQbBLlc67frQE/edit?usp=sharing)
 
 # Πράξη 1
 
