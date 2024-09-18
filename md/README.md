@@ -3,6 +3,7 @@
 ## by Language:
 - English: [The Heroic Martyr for the Truth](en.md)
 - French: [La Héroïne martyre pour la Vérité](fr.md)
+- Spanish: [La Heroica Mártir por la Verdad](es.md)
 - German: [Die heldenhafte Zeugin der Wahrheit](de.md)
 - Greek: [Η Ηρωική Μάρτυς για την Αλήθεια](gr.md)
 - Italian: [Il Martire Eroico per la Verità](it.md)
