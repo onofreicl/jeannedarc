@@ -7,6 +7,7 @@
 - German: [Die heldenhafte Zeugin der Wahrheit](de.md)
 - Greek: [Η Ηρωική Μάρτυς για την Αλήθεια](gr.md)
 - Italian: [Il Martire Eroico per la Verità](it.md)
+- Polish: [Bohaterska Męczennica za Prawdę](pl.html)
 - Romanian: [Eroina Martiră pentru Adevăr](ro.md)
   
   
