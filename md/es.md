@@ -2,6 +2,8 @@
 
 # La Heroica Mártir por la Verdad
 
+- como [video](https://youtube.com/playlist?list=PLrZFPVQM38MdMyUHsbehsgiuF204DLi5X&si=sxkp2GR_Dk8uk0KX)
+
 ## Acto 1
 
 ---
