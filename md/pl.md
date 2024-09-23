@@ -2,6 +2,7 @@
 
 # Bohaterska Męczennica za Prawdę
 
+- jako [wideo](https://www.youtube.com/watch?v=iZlXw5NGZtE&list=PLrZFPVQM38Md4KwqhMMK7Kok9w8tGgyOR)
 
 # Akt 1
 
