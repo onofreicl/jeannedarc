@@ -8,9 +8,10 @@
 - Greek: [Η Ηρωική Μάρτυς για την Αλήθεια](gr.md)
 - Italian: [Il Martire Eroico per la Verità](it.md)
 - Polish: [Bohaterska Męczennica za Prawdę](pl.html)
+- Russian [Героическая Мученица за Истину](ru.html)
+- Hungarian [Az Igazság Hősies Mártírja](hu.html)
 - Romanian: [Eroina Martiră pentru Adevăr](ro.md)
-  
-  
+
 
 ## Gratitudes
 
