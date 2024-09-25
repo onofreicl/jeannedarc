@@ -2,7 +2,7 @@
 
 # Героическая Мученица за Истину
 
-- Как видео
+- Как [видео](https://www.youtube.com/watch?v=NJ1bafYRIjg&list=PLrZFPVQM38MfSOiBcQHOv8MSo1vfpWHag)
 
 # Акт 1
 
