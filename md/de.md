@@ -2,7 +2,7 @@
 
 # Die heldenhafte Zeugin der Wahrheit
 
-- As [video](https://www.youtube.com/watch?v=vVMf3Y-GOXk&list=PLrZFPVQM38MeC-ecXR6xoUe730yGpoLlv)
+- As [video](https://youtube.com/playlist?list=PLrZFPVQM38McvejkNVeU5UTyPEMhzOnjn&si=HtK9VXWRqnDZ1xth)
 - As [slides](https://docs.google.com/presentation/d/1VCVcJ-jBY2l14-xzNCqH2_aV54vp0vJQbBLlc67frQE/edit?usp=sharing)
 
 # Akt 1

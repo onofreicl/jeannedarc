@@ -1,8 +1,17 @@
+[back](index.html)
+
 # Il Martire Eroico per la Verità
+
+- Come [video](https://youtube.com/playlist?list=PLrZFPVQM38Mdyu7uVtAjDTugvUw7ISmO5&si=IBIm902O2H_wQyvr)
 
 # Atto 1
 
+---
+
 ## Prefazione
+
+![](../public/Boutet/modi/laurel.png)
+![](../public/Boutet/cropped/France1429_o.png)
 
 Il 22 ottobre 1422, Carlo VI morì, lasciando in eredità, tramite il Trattato di Troyes, il suo regno con la mano di sua figlia a Enrico V, Re d'Inghilterra.
 
@@ -26,9 +35,14 @@ E aggiunse: “Questo è il motivo per cui sono nata.”
 
 È per questo, infatti, che è nata, la santa ragazza; questo è anche il motivo per cui, consegnata vigliaccamente ai suoi nemici, morì nell'orrore della più crudele tortura, abbandonata dal Re che aveva incoronato e dal popolo che aveva salvato.
 
-Aprite, miei cari bambini, questo libro con devozione in memoria di questa umile contadina che è la patrona della Francia, che è la santa della patria come lo è stata sua martire. La sua storia vi dirà che per vincere, dovete avere fede nella vittoria. Ricordate questo, il giorno in cui il paese avrà bisogno di tutto il vostro coraggio.
+Aprite, miei cari bambini, questo libro con devozione in memoria di questa umile contadina che è la patrona della Francia, che è la santa della patria cosi come è stata sua martire. La sua storia vi dirà che per vincere, dovete avere fede nella vittoria. Ricordate questo, il giorno in cui il paese avrà bisogno di tutto il vostro coraggio.
+
+
+---
 
 ## Scena 1
+
+![](../public/Boutet/cropped/919976ilsdl.jpg)
 
 Giovanna nacque il 6 gennaio 1412 a Domrémy, un piccolo villaggio in Lorena, dipendente dal baliato di Chaumont, che apparteneva alla corona di Francia.
 
@@ -42,7 +56,12 @@ Era dolce, semplice e retta. Tutti la amavano perché sapevano che era caritatev
 
 Amava Dio e pregava spesso.
 
+
+---
+
 ## Scena 2
+
+![](../public/Boutet/cropped/919977ilsdl.jpg)
 
 Un giorno d'estate, quando aveva tredici anni, a mezzogiorno, sentì una voce nel giardino di suo padre; una grande luce scoppiò, e l'arcangelo San Michele le apparve. Le disse di essere buona e di frequentare la chiesa. Poi, parlando della grande pena che era nel regno di Francia, le annunciò che sarebbe andata in aiuto del Delfino e che lo avrebbe condotto a Reims per l'incoronazione.
 
@@ -52,7 +71,12 @@ Un giorno d'estate, quando aveva tredici anni, a mezzogiorno, sentì una voce ne
 
 E la bambina turbata rimase a piangere.
 
+
+---
+
 ## Scena 3
+
+![](../public/Boutet/cropped/919978ilsdl.jpg)
 
 Da quel giorno, la pietà di Giovanna divenne ancora più ardente; la bambina si separava volentieri dai suoi compagni per meditare, e voci celestiali le parlavano della sua missione. Erano, disse, le voci dei suoi Santi. Spesso queste voci erano accompagnate da visioni; Santa Caterina e Santa Margherita le apparivano.
 
@@ -68,13 +92,21 @@ I suoi Santi le ordinarono di andare a trovare il Signore di Baudricourt, Signor
 
 Non osando condividere il suo piano con i suoi genitori, Giovanna andò a Burey per trovare suo zio Laxart e lo supplicò di portarla a Vaucouleurs. L'ardore della sua preghiera scosse la timidezza del contadino timoroso; promise di accompagnarla.
 
+
+---
+
 ## Scena 4
+
+![](../public/Boutet/cropped/919979ilsdl.jpg)
 
 L'accoglienza di Baudricourt fu brutale. Giovanna gli disse "che un messaggio veniva da Dio, che Dio avrebbe comandato al Delfino di comportarsi bene perché il Signore gli avrebbe dato aiuto prima della metà della Quaresima"; aggiunse "che Dio voleva che il Delfino diventasse Re; che lo avrebbe fatto nonostante i suoi nemici, e che lei stessa lo avrebbe condotto all'incoronazione".
 
 "Questa ragazza è pazza, disse Baudricourt, riportiamola da suo padre per darle una buona dose di botte."
 
 Giovanna tornò a Domrémy. Ma pressata di nuovo dalle sue voci, tornò a Vaucouleurs e rivide il Signore di Baudricourt senza ottenere un'accoglienza migliore.
+
+
+---
 
 ## Scena 5
 
@@ -90,7 +122,12 @@ Le persone, di cuore semplice, mosse dalla sua fede, credevano in lei. Uno scudi
 
 "Dio ti benedica!" gridavano i poveri, e le donne piangevano mentre la vedevano andare via.
 
+
+---
+
 ## Scena 6
+
+![](../public/Boutet/cropped/919981ilsdl.jpg)
 
 Chinon era lontana e il viaggio pericoloso. Gli inglesi e i borgognoni partigiani tenevano il paese, e la piccola truppa era obbligata a passare attraverso certi ponti occupati dal nemico. Bisognava camminare di notte e nascondersi di giorno. I compagni di Giovanna, spaventati, parlavano di tornare a Vaucouleurs.
 
@@ -98,9 +135,14 @@ Chinon era lontana e il viaggio pericoloso. Gli inglesi e i borgognoni partigian
 
 Il dodicesimo giorno, Giovanna arrivò a Chinon con i suoi compagni. Dal borgo di Santa Caterina, aveva inviato una lettera al Re annunciando il suo arrivo.
 
-La corte di Carlo VII era lontana dall'essere unanime sull'accoglienza da darle. La Trémouille, il favorito del giorno, geloso dell'ascendente che aveva guadagnato sul suo padrone, era determinato a rimuovere qualsiasi influenza capace di strappare Carlo dalla sua torpore. Per due giorni, il consiglio discusse se il Delfino avrebbe ricevuto la giovane ispirata.
+La corte di Carlo VII era lontana dall'essere unanime sull'accoglienza da darle. La Trémouille, il favorito del giorno, geloso dell'ascendente che aveva guadagnato sul suo padrone, era determinato a rimuovere qualsiasi influenza capace di strappare Carlo dal suo torpore. Per due giorni, il consiglio discusse se il Delfino avrebbe ricevuto la giovane ispirata.
+
+
+---
 
 ## Scena 7
+
+![](../public/Boutet/cropped/919982ilsdl.jpg)
 
 In quel momento, giunsero notizie da Orléans così inquietanti che i sostenitori di Giovanna riuscirono a garantire che questa suprema possibilità di salvezza non fosse esclusa. La sera, alla luce di cinquanta torce, nella grande sala del castello, dove si affollavano tutti i signori della corte, Giovanna fu presentata. Non aveva mai visto il Re. Carlo VII, per non attirare la sua attenzione, indossava un costume meno lussuoso di quelli dei suoi cortigiani. Al primo sguardo, lo distinse tra tutti, e inginocchiandosi davanti a lui:
 
@@ -114,7 +156,12 @@ E avvicinandosi all'oggetto della sua missione, gli disse che Dio l'aveva mandat
 
 Il Delfino rimase esitante. Questa ragazza potrebbe essere una strega. La mandò a Poitiers per sottoporsi all'esame dei dottori e degli ecclesiastici.
 
+
+---
+
 ## Scena 8
+
+![](../public/Boutet/cropped/919983ilsdl.jpg)
 
 Per tre settimane fu torturata con domande insidiose.
 
@@ -126,7 +173,12 @@ Quando le fu obiettato che Dio, per liberare la Francia, non aveva bisogno di uo
 
 Lì come a Vaucouleurs, il popolo si dichiarò in suo favore, la consideravano santa e ispirata. I dottori e i potenti dovettero cedere all'entusiasmo della folla.
 
+
+---
+
 ## Scena 9
+
+![](../public/Boutet/cropped/919984ilsdl.jpg)
 
 Le truppe si radunarono a Blois. Giovanna arrivò lì seguita dal Duca di Alençon, dal Maresciallo de Boussac, dal Signore di Rais, La Hire e Xaintrailles.
 
@@ -134,13 +186,23 @@ Sul suo stendardo bianco, aveva ricamato l'immagine di Dio e i nomi di Gesù e M
 
 Voleva marciare direttamente verso Orléans; i capi pensavano fosse più prudente passare per la riva sinistra della Loira.
 
+
+---
+
 ## Scena 10
+
+![](../public/Boutet/cropped/919985ilsdl.jpg)
 
 L'esercito e il convoglio arrivarono davanti a Chécy, due leghe sopra Orléans.
 
 Si trattava di attraversare la Loira; mancavano le barche. Giovanna fu trasportata sull'altra riva con parte della sua scorta e il convoglio di rifornimenti. Il resto delle truppe dovette tornare a Blois, per tornare a Orléans tramite la riva destra della Loira, attraverso Beauce.
 
+
+---
+
 ## Scena 11
+
+![](../public/Boutet/cropped/919986ilsdl.jpg)
 
 Giovanna disse a Dunois, che era venuto a incontrarla:
 
@@ -152,7 +214,12 @@ Alle otto di sera, Giovanna entrò a Orléans. La gente accorse per incontrarla.
 
 Giovanna parlò loro dolcemente, promettendo di liberarli.
 
+
+---
+
 ## Scena 12
+
+![](../public/Boutet/cropped/919987ilsdl.jpg)
 
 Chiese di essere portata in una chiesa, volendo soprattutto ringraziare Dio.
 
@@ -162,13 +229,23 @@ Mentre un vecchio disse a Giovanna, parlando degli inglesi:
 
 E, in effetti, la sua fiducia conquistò tutti intorno a lei. Gli orleanesi, così timorosi e scoraggiati il giorno prima, ora fanatici dalla sua presenza, volevano gettarsi sul nemico e rimuovere le loro bastille. Dunois, temendo un fallimento, decise di aspettare l'arrivo dell'esercito di soccorso per iniziare l'attacco. Nel frattempo, Giovanna intimò agli inglesi di ritirarsi e tornare nel loro paese. Risposero con insulti.
 
+
+---
+
 ## Scena 13
+
+![](../public/Boutet/cropped/919988ilsdl.jpg)
 
 Tuttavia, non ricevemmo notizie da Blois. Dunois, preoccupato, partì per accelerare l'arrivo degli aiuti. Era tempo. L'arcivescovo di Reims, Regnault de Chartres, cancelliere del re, riconsiderando le decisioni prese, stava per rimandare le truppe alle loro guarnigioni. Dunois ottenne di portarle a Orléans.
 
 Mercoledì 4 maggio, al mattino, Giovanna, circondata da tutto il clero della città e seguita da una gran parte della popolazione, lasciò Orléans; attraverso le bastille inglesi, avanzò in una grande processione per incontrare il piccolo esercito di Dunois, che passava sotto la protezione dei sacerdoti e di una ragazza, senza che gli inglesi osassero attaccarlo.
 
+
+---
+
 ## Scena 14
+
+![](../public/Boutet/cropped/919989ilsdl.jpg)
 
 Lo stesso giorno, mentre Giovanna si stava riposando, si svegliò di soprassalto.
 
@@ -176,15 +253,30 @@ Lo stesso giorno, mentre Giovanna si stava riposando, si svegliò di soprassalto
 
 Aiutata dalle donne di casa, si armò rapidamente e, salendo in sella, partì al galoppo, con il suo stendardo in mano, correndo direttamente verso la Porte de Bourgogne, così veloce che scintille volarono dal selciato.
 
+
+---
+
 ## Scena 15
+
+![](../public/Boutet/cropped/919990ilsdl.jpg)
 
 Infatti, senza avvisarla, la bastide di Saint-Loup era stata attaccata. L'attacco era fallito; i francesi si ritiravano in disordine. Giovanna corse per radunarli e, riportandoli al nemico, ricominciò l'assalto. Invano Talbot cercò di aiutare la sua gente. Giovanna, in piedi ai piedi delle mura, incoraggiava il suo popolo. Per tre ore gli inglesi resistettero. Nonostante la loro difesa disperata, la bastide fu presa.
 
+
+---
+
 ## Scena 16
+
+![](../public/Boutet/cropped/919991ilsdl.jpg)
 
 Giovanna tornò vittoriosa a Orléans. Ma mentre, nella gioia del suo successo, tornava verso la città, attraversando il campo di battaglia, sentì il suo povero cuore sciogliersi di pietà alla vista dei feriti e dei morti, e iniziò a piangere, pensando che erano morti senza confessione. E disse "che non aveva mai visto il sangue della Francia essere versato prima. I suoi capelli si rizzarono."
 
+
+---
+
 ## Scena 17
+
+![](../public/Boutet/cropped/919992ilsdl.jpg)
 
 Tuttavia, era questione di decidere come continuare questo attacco che era iniziato così felicemente contro gli inglesi.
 
@@ -196,7 +288,12 @@ Giovanna si presentò al consiglio; e mentre il cancelliere del Duca di Orléans
 
 "Tu sei stato nel tuo consiglio e io sono stata nel mio, e credi che il consiglio di Dio sarà realizzato e rimarrà fermo, e che il tuo perirà. Alzati presto domattina, perché avrò molto da fare, più di quanto abbia mai avuto."
 
+
+---
+
 ## Scena 18
+
+![](../public/Boutet/cropped/919993ilsdl.jpg)
 
 Il giorno dopo, il 6 maggio, catturò la bastide degli agostiniani. Sabato 7, al mattino presto, iniziò l'attacco alla bastide di Tournelles. Giovanna, calata nel fossato, stava alzando una scala contro il parapetto, quando una freccia di balestra la trafisse tra il collo e la spalla. Strappò il ferro dalla ferita; le fu poi offerto di incantare la ferita, rifiutò, dicendo "che avrebbe preferito morire piuttosto che fare qualcosa che fosse contro la volontà di Dio". Si confessò e pregò a lungo mentre le sue truppe si riposavano. Poi, dando l'ordine di riprendere l'assalto, si gettò nel calore della battaglia, gridando agli attaccanti:
 
@@ -204,7 +301,12 @@ Il giorno dopo, il 6 maggio, catturò la bastide degli agostiniani. Sabato 7, al
 
 La bastide fu presa e tutti i difensori perirono. Non c'era più un inglese rimasto sulla riva sinistra della Loira.
 
+
+---
+
 ## Scena 19
+
+![](../public/Boutet/cropped/919994ilsdl.jpg)
 
 Domenica, gli inglesi si schierarono in battaglia sulla riva destra della Loira. Giovanna proibì di attaccarli. Fece erigere un altare e la messa fu celebrata alla presenza dell'esercito riunito. Terminata la cerimonia, disse a quelli intorno a lei:
 
@@ -214,7 +316,12 @@ Domenica, gli inglesi si schierarono in battaglia sulla riva destra della Loira.
 
 Orléans, assediata per otto mesi, fu liberata in quattro giorni.
 
+
+---
+
 ## Scena 20
+
+![](../public/Boutet/cropped/919995ilsdl.jpg)
 
 La notizia della liberazione di Orléans si diffuse lontano e largo, attestando a tutti la divinità della missione di Giovanna.
 
@@ -222,7 +329,12 @@ La santa ragazza, evitando il riconoscimento degli orleanesi, tornò in fretta a
 
 Fu deciso che Giovanna avrebbe attaccato i luoghi che gli inglesi tenevano ancora sulle rive della Loira.
 
+
+---
+
 ## Scena 21
+
+![](../public/Boutet/cropped/919996ilsdl.jpg)
 
 L'11 giugno, i francesi occuparono i sobborghi di Jargeau. Il giorno successivo, di prima mattina, Giovanna diede il segnale di combattimento. Il duca di Alençon voleva ritardare l'assalto:
 
@@ -240,7 +352,13 @@ il 16, assediarono Beaugency;
 
 il 17, la città capitolò.
 
+
+---
+
 ## Scena 22
+
+![](../public/Boutet/cropped/919997ilsdl.jpg)
+![](../public/Boutet/cropped/919998ilsdl.jpg)
 
 Il 18 giugno, Giovanna raggiunse, vicino a Patay, l'esercito inglese guidato da Talbot e Fastolf.
 
@@ -254,7 +372,12 @@ Talbot fu fatto prigioniero.
 
 "È la fortuna della guerra," rispose Talbot.
 
+
+---
+
 ## Scena 23
+
+![](../public/Boutet/cropped/919999ilsdl.jpg)
 
 Gli inglesi persero quattromila morti. Duecento prigionieri furono presi da loro. Solo quelli che potevano pagare un riscatto furono tenuti a misericordia; gli altri furono uccisi senza pietà.
 
@@ -264,7 +387,12 @@ Il suo cuore era pietoso per gli inglesi feriti come per quelli del suo partito.
 
 Inoltre, sfidava i colpi e spesso veniva ferita, ma non voleva mai usare la sua spada; il suo stendardo bianco era la sua unica arma.
 
+
+---
+
 ## Scena 24
+
+![](../public/Boutet/cropped/920000ilsdl.jpg)
 
 I soldati, inglesi e borgognoni, che erano di guarnigione a Troyes furono in grado di lasciare la città con tutto ciò che possedevano. Quello che avevano erano principalmente prigionieri, francesi. Quando si stilò la capitolazione, nulla era stato stipulato a favore di questi sfortunati. Ma quando gli inglesi lasciarono la città con i loro prigionieri incatenati, Giovanna si gettò sulla strada.
 
@@ -272,13 +400,23 @@ I soldati, inglesi e borgognoni, che erano di guarnigione a Troyes furono in gra
 
 Chiese che i prigionieri fossero consegnati a lei, e che il loro riscatto fosse pagato dal Re.
 
+
+---
+
 ## Scena 25
+
+![](../public/Boutet/cropped/920001ilsdl.jpg)
 
 Il 16 luglio, il Re entrò nella città di Reims alla testa delle sue truppe. Il giorno successivo, la cerimonia di incoronazione ebbe luogo nella cattedrale, tra una grande folla di signori e di popolo. Giovanna stava dietro il Re, con il suo stendardo in mano;
 
 "Questo stendardo aveva sofferto, era giusto che fosse in prima linea."
 
+
+---
+
 ## Scena 26
+
+![](../public/Boutet/cropped/920002ilsdl.jpg)
 
 Quando Carlo VII ricevette l'unzione sacra e la corona dall'arcivescovo, Regnault di Chartres, Giovanna si gettò ai suoi piedi, baciandogli le ginocchia e piangendo calde lacrime.
 
@@ -288,7 +426,12 @@ Quando Carlo VII ricevette l'unzione sacra e la corona dall'arcivescovo, Regnaul
 
 "O buoni e devoti," gridò la santa ragazza, vedendo l'entusiasmo della folla intorno al Re, "se devo morire, sarei molto felice se mi seppellissero qui!"
 
+
+---
+
 ## Scena 27
+
+![](../public/Boutet/cropped/920003ilsdl.jpg)
 
 Non c'era nulla come l'ardore della gente per toccare Giovanna. Si trattava di chi avrebbe baciato le sue mani o i suoi vestiti, chi l'avrebbe toccata. I bambini piccoli erano presentati a lei affinché potesse benedirli, i rosari, le immagini sacre affinché potesse santificarli toccandoli con la sua mano. E la umile ragazza rifiutava con grazia questi segni di adorazione, scherzando gentilmente con i poveri riguardo alla loro credulità nel suo potere. Ma chiese in quale giorno e a che ora i bambini dei poveri ricevevano la comunione, per andare a comunicare con loro.
 
@@ -296,7 +439,12 @@ La sua pietà era per tutti quelli che soffrivano, ma la sua tenerezza era tutta
 
 "Molte persone mi vedevano volentieri, e mi baciavano le mani senza il mio permesso, ma i poveri venivano volentieri da me perché non dispiacevo loro."
 
+
+---
+
 ## Scena 28
+
+![](../public/Boutet/cropped/920004ilsdl.jpg)
 
 Dopo l'incoronazione di Reims, Giovanna voleva muoversi decisamente verso Parigi e riprendere la capitale del regno. L'indecisione del Re diede tempo agli inglesi di fare i loro preparativi di difesa. L'assalto fu respinto; Giovanna fu ferita da un colpo di balestra alla coscia.
 
@@ -304,7 +452,12 @@ Dovette essere portata via a forza dai piedi delle mura per costringerla a smett
 
 Per un bel po' di tempo Carlo era stato trascinato lungo le strade; era impaziente di riprendere la sua vita indolente nei suoi castelli della Touraine.
 
+
+---
+
 ## Scena 29
+
+![](../public/Boutet/cropped/920005ilsdl.jpg)
 
 Questa ritirata imposta dalla codardia di Carlo VII e dalla gelosia dei cortigiani fu un terribile attacco al prestigio di Giovanna.
 
@@ -312,7 +465,12 @@ D'ora in poi, agli occhi di tutti, cessò di essere invincibile.
 
 La santa ragazza sembra aver capito questo, perché, prima di lasciare Parigi, andò a mettere come offerta, sull'altare di Saint-Denis, le sue armi finora vittoriose. Pregò a lungo. Forse in quel momento ebbe il presentimento che la sua gloriosa missione fosse finita, e che per lei si prospettassero prove dolorose. Tuttavia, si sottomise e, con la morte nell'anima, seguì il Re a Gien. L'esercito fu sciolto. Le persone di corte pensavano che avessimo combattuto abbastanza. Era importante, inoltre, per la loro gelosia porre fine al successo di Giovanna.
 
+
+---
+
 ## Scena 30
+
+![](../public/Boutet/cropped/920006ilsdl.jpg)
 
 Ma Giovanna non poteva rassegnarsi all'inazione che volevano imporle. Abbandonata senza aiuto durante l'assedio di La Charité, capì che ora non aveva speranza di aiuto da Carlo VII. Alla fine di marzo (1430), senza congedarsi dal Re, partì per unirsi ai partigiani francesi che stavano combattendo contro gli inglesi a Lagny.
 
@@ -320,7 +478,12 @@ Ora, durante la settimana di Pasqua, appena aveva sentito messa e preso la comun
 
 "Miei bambini e cari amici, vi dico che sono stata venduta e tradita, e che presto sarò consegnata alla morte. Vi prego di pregare per me, perché non avrò mai più il potere di fare alcun servizio al Re e al Regno di Francia."
 
+
+---
+
 ## Scena 31
+
+![](../public/Boutet/cropped/920007ilsdl.jpg)
 
 Il 23 maggio, mentre si trovava a Crespy, Giovanna apprese che la città di Compiègne era strettamente assediata dagli inglesi e dai borgognoni.
 
@@ -330,7 +493,12 @@ Vi andò con quattrocento combattenti ed entrò in città il 24, all'alba. Poi, 
 
 Ma Giovanna fu trascinata via dalla ritirata dei suoi uomini. Riportata sotto le mura di Compiègne, i francesi trovarono il ponte sollevato e la saracinesca abbassata. Tuttavia, Giovanna, costretta nei fossati, si difese ancora.
 
+
+---
+
 ## Scena 32
+
+![](../public/Boutet/cropped/920008ilsdl.jpg)
 
 Una truppa l'aveva attaccata.
 
@@ -338,11 +506,21 @@ Una truppa l'aveva attaccata.
 
 Ma invano resistette. Tirata per i suoi lunghi vestiti, fu buttata giù dal cavallo e catturata. Dalle mura della città, il signore di Flavy, governatore di Compiègne, assistette alla sua cattura. Non fece nulla per aiutarla.
 
+
+---
+
 ## Scena 33
+
+![](../public/Boutet/cropped/920009ilsdl.jpg)
 
 Giovanna fu portata a Margny tra le grida di gioia dei suoi nemici. I capi inglesi e borgognoni e il duca di Borgogna stesso accorsero per vedere la strega. Si trovarono faccia a faccia con una ragazza di diciotto anni. Giovanna era prigioniera di Giovanni di Lussemburgo, un gentiluomo senza fortuna, che voleva solo trarre profitto dalla sua cattura. Il re di Francia non fece nessuna offerta per riscattare la prigioniera.
 
+
+---
+
 ## Scena 34
+
+![](../public/Boutet/cropped/920010ilsdl.jpg)
 
 Giovanna fu rinchiusa nel castello di Beaurevoir. Ma sapendo che gli inglesi volevano comprarla dal signore di Lussemburgo e anche che l'assedio di Compiègne avanzava e che la città stava per soccombere, una notte si lasciò scivolare dalla cima della torre, usando delle cinghie che si ruppero. Cadde ai piedi del muro e rimase lì come morta.
 
@@ -350,7 +528,12 @@ Giovanna, tuttavia, si riprese dalla sua caduta. Un destino più crudele era in 
 
 Alla fine di novembre, fu consegnata agli inglesi per una somma di diecimila libbre tournois.
 
+
+---
+
 ## Scena 35
+
+![](../public/Boutet/cropped/920011ilsdl.jpg)
 
 Rinchiusa nella prigione del castello di Rouen, fu sorvegliata giorno e notte dai soldati, dai quali dovette sopportare insulti e persino brutalità, le catene non le permettevano di difendersi.
 
@@ -358,7 +541,12 @@ Nel frattempo, un tribunale, sotto la discrezione del partito inglese e presiedu
 
 “Vengo da Dio,” disse; “non ho utilità qui; rimandatemi a Dio da cui sono venuta.”
 
+
+---
+
 ## Scena 36
+
+![](../public/Boutet/cropped/920012ilsdl.jpg)
 
 Tuttavia, le rimaneva un aiuto: quello dei suoi santi. Solo loro non l'avevano abbandonata. Giovanna riceveva sempre consigli dalle sue voci celesti; Santa Margherita e Santa Caterina le apparivano nel silenzio della notte, confortandola con buone parole. E quando il vescovo Cauchon chiese a Giovanna cosa le dicevano:
 
@@ -372,7 +560,12 @@ E mentre il vescovo la incalzava con le domande:
 
 "Non posso dire tutto; ho più paura di dire qualcosa che li dispiaccia che di non rispondere a te."
 
+
+---
+
 ## Scena 37
+
+![](../public/Boutet/cropped/920013ilsdl.jpg)
 
 Un giorno, Stafford e Warwick vennero a vederla con Giovanni di Lussemburgo. E quando lui, beffardamente, le disse che veniva a riscattarla se prometteva di non armarsi più contro l'Inghilterra:
 
@@ -382,13 +575,24 @@ Furioso, il conte di Stafford si lanciò contro di lei.
 
 L'avrebbe uccisa senza l'intervento degli assistenti.
 
+
+---
+
 ## Scena 38
+
+![](../public/Boutet/cropped/920014ilsdl.jpg)
 
 Giovanna, trattata come eretica, fu privata dell'aiuto della religione. I sacramenti le furono proibiti.
 
 Tornando dall'interrogatorio e passando con la sua scorta davanti a una cappella la cui porta era chiusa, chiese al monaco che l'accompagnava se il corpo di Gesù Cristo fosse lì, chiedendo di poter inginocchiarsi per un momento davanti alla porta per pregare. Cosa che fece. Ora, Cauchon, saputo questo, minacciò il monaco con le punizioni più rigorose se una cosa del genere fosse accaduta di nuovo.
 
+
+---
+
 ## Scena 39
+
+![](../public/Boutet/cropped/920015ilsdl.jpg)
+![](../public/Boutet/cropped/920016ilsdl.jpg)
 
 Tuttavia, il processo procedeva troppo lentamente per gli inglesi.
 
@@ -400,7 +604,13 @@ La santa eroina fu condannata, come eretica, recidiva, apostata e idolatra, a es
 
 “Vescovo, muoio a causa tua!” disse, rivolgendosi a Cauchon.
 
+
+---
+
 ## Scena 40
+
+![](../public/Boutet/cropped/920017ilsdl.jpg)
+![](../public/Boutet/cropped/920018ilsdl.jpg)
 
 Il 30 maggio, Giovanna si confessò e ricevette la comunione. Poi fu portata sul luogo dell'esecuzione. Quando fu ai piedi del patibolo, si inginocchiò, invocando Dio, la Vergine e i Santi; poi, rivolgendosi al vescovo, ai giudici, ai suoi nemici, li supplicò devotamente di far celebrare messe per la sua anima. Salì sul rogo, chiese una croce e morì tra le fiamme pronunciando il nome di Gesù. Tutti piangevano, gli stessi boia e i giudici.
 
@@ -419,3 +629,5 @@ O GIOVANNA, SENZA SEPOLCRO E SENZA RITRATTO, TU CHE SAPEVI CHE LA TOMBA DEGLI ER
 
 
 SOLO I VOLONTARI DIMOSTRABILI POSSONO RISOLLEVARE GIOVANNA E ALTRI EROI DAI LORO SEPOLCRI - Anon
+
+[back](index.html)
